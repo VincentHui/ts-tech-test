@@ -1,0 +1,17 @@
+{
+    "name": "betcountdown",
+    "version": "1.0.0",
+    "description": "When you place a bet on our system, we need to calculate a delay time, so that our system can perform various checks.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/jest": "^26.0.15",
+        "jest": "^26.6.3",
+        "ts-jest": "^26.4.4",
+        "typescript": "^4.1.2"
+    }
+}
